@@ -1,0 +1,7 @@
+*~
+.*.swp
+/*.pdf
+/*.log
+/TODO
+__pycache__
+timer.dat
